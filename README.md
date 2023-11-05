@@ -157,6 +157,5 @@ No known bugs at this time.
 Dzidedi Senaya - [Github](https://github.com/DzidediSenaya)  
 Samwel Nyandoro - [Github](https://github.com/samwelnyandoro)
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
